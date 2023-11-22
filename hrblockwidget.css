@@ -1,0 +1,36 @@
+h2 {
+    color: green;
+    font-size: 42px !important;
+}
+
+.hrblockwell {
+    border: green 1px solid;
+}
+
+#field1 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field2 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field3 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field4 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field43 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field44 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field45 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field46 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
+#field47 > div > div > div:nth-child(1) > label > span.checkboxListLabel {
+    display: none;
+}
